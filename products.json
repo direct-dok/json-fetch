@@ -152,5 +152,89 @@
       "description": "These relaxed pants are soft and comfortable. Short and easy to wear.",
       "price": 3999, 
       "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM20VFO_11393357_1_v1.jpg"
+    },
+    {
+      "id_product": 147,
+      "product_name": "Рубашка oodji",
+      "description": "Composition: 100% cotton Lining material: no lining Item size on model: M Model parameters: 100-83-100 Model's height in photo: 189 Season: multi Color: white Pattern: solid Warranty period: not installed Country of origin: China Clasp: buttons",
+      "price": 1599, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HIP9_13987174_1_v2.jpeg"
+    },
+    {
+      "id_product": 148,
+      "product_name": "Пиджак Berkytt",
+      "description": "Composition: Linen - 100% Lining material: Polyester - 80%, Cotton - 20% Item size on model: 48/176 RUS Model parameters: 92-74-92 Model's height in photo: 188 Length: 75 cm Sleeve length: 65 cm Season: Summer Color: Beige Pattern: Solid Silhouette Type: Fitted Pockets: 2",
+      "price": 5300, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1H3RX_13726623_1_v2_2x.jpg"
+    },
+    {
+      "id_product": 149,
+      "product_name": "Джинсы - JUDE Mango Man",
+      "description": "Composition: Cotton - 99%, Elastane - 1% Season: multi Color: blue Pattern: solid Fit: slim fit Pockets: 5 Country of origin: Pakistan Closure: zipper Article HE002EMMNXJ5",
+      "price": 3699, 
+      "img": "https://a.lmcdn.ru/img600x866/H/E/HE002EMMNXJ5_13143865_1_v1.jpg"
+    },
+    {
+      "id_product": 150,
+      "product_name": "Куртка кожаная Urban Fashion for Men",
+      "description": "The jacket is made of genuine leather. Straight cut model. Features: stand-up collar, zip closure, four pockets, lining.",
+      "price": 9340, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HB2S_13675624_1_v1_2x.jpg"
+    },
+    {
+      "id_product": 151,
+      "product_name": "Куртка кожаная oodji",
+      "description": "Composition: 100% Polyester Lining material: no lining Insulation: no insulation Product size on model: M Model parameters: 100-83-100 Model's height in photo: 189 Season: multi Color: brown",
+      "price": 3999, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HKDK_14087915_1_v1.jpeg"
+    },
+    {
+      "id_product": 152,
+      "product_name": "Куртка утепленная oodji",
+      "description": "Composition: Polyamide - 100% Lining material: Polyester - 100% Insulation: Polyester - 100% Model parameters: 100-83-100 Model's height in photo: 189 Season: demi-season Color: blue",
+      "price": 3999, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1H6BU_13378105_1_v1.jpeg"
+    },
+    {
+      "id_product": 153,
+      "product_name": "Пальто oodji",
+      "description": "Composition: Polyester - 100% Lining material: no lining Insulation: no insulation Product size on model: Model parameters: 100-83-100 Model's height in photo: 189 Season: demi-season Color: blue",
+      "price": 6500, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1HCXY_13695300_1_v1.jpeg"
+    },
+    {
+      "id_product": 154,
+      "product_name": "Футболка M NSW TEE FSTVL FTRA AIR DNCR NIKE",
+      "description": "Composition: Cotton - 100% Item size on model: M INT The parameters of the model: 103-78-98 Model's height in photo: 189 Length: 70 cm Sleeve length: 20 cm Season: multi",
+      "price": 2499, 
+      "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAJ980601_14375042_1_v1_2x.jpg"
+    },
+    {
+      "id_product": 155,
+      "product_name": "Олимпийка RIMMINI TRACK TOP Ellesse",
+      "description": "Composition: Polyester - 51%, Cotton - 49% Item size on model: M INT The parameters of the model: 94-74-90 Model's height in photo: 189 Length: 68 cm Sleeve length: 80 cm Season: demi-season",
+      "price": 4409, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1ZQHS_12755501_1_v1_2x.jpg"
+    },
+    {
+      "id_product": 156,
+      "product_name": "Комбинезон Siberian The Cave",
+      "description": "Composition: Cotton - 70%, Polyester - 30% Item size on model: XL Model's height in photo: 182 Season: multi Color: green",
+      "price": 5900, 
+      "img": "https://a.lmcdn.ru/img600x866/M/P/MP002XM2400U_7624677_1_v1.jpeg"
+    },
+    {
+      "id_product": 157,
+      "product_name": "Джинсы Dali",
+      "description": "Composition: Cotton - 100% Product size on model: 32 JEANS Model parameters: 98-74-95 Model's height in the photo: 186 Height: 32 cm Inseam length: 65.5 cm Side seam length: 96 cm",
+      "price": 3200, 
+      "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAG705801_14338178_1_v1_2x.jpg"
+    },
+    {
+      "id_product": 158,
+      "product_name": "Джинсы Dali",
+      "description": "Composition: Cotton - 100% Item size on the model: 32 JEANS Model parameters: 98-74-95 Model's height in the photo: 186 Inseam length: 73 cm Side seam length: 97 cm Bottom width: 13 cm Season: multi",
+      "price": 2556, 
+      "img": "https://a.lmcdn.ru/img600x866/R/T/RTLAAG705901_14338182_1_v1_2x.jpg"
     }
   ]
